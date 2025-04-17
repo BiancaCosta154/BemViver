@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="98372181-0dad-43e3-aae6-195538a36e89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BemViver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alergia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnotacaoMedica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Despesas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estoque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Financeiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItemEstoque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogAcesso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medicamentos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlanoDeSaude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProntuarioEletronicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Receita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipoConsulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VideoChamada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -47,7 +29,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
